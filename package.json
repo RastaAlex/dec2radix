@@ -1,0 +1,28 @@
+{
+  "name": "@rasta-alex/dec2bin",
+  "version": "1.0.0",
+  "main": "lib/dec2radix.js",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-putout": "^6.8.1",
+    "madrun": "^8.0.5",
+    "nodemon": "^2.0.6",
+    "putout": "^11.11.0",
+    "tape": "^5.0.1",
+    "try-catch": "^3.0.0"
+  },
+  "scripts": {
+    "lint": "madrun lint",
+    "fix:lint": "madrun fix:lint",
+    "report": "madrun report",
+    "coverage": "madrun coverage",
+    "test": "madrun test",
+    "watch:coverage": "madrun watch:coverage",
+    "watch:test": "madrun watch:test",
+    "watcher": "madrun watcher"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
