@@ -1,1 +1,8 @@
 .madrun.js
+test/test.js
+.eslintrc.json
+.gitignore
+.madrun.js
+.npmrc
+.putoutcache
+package-lock.json
